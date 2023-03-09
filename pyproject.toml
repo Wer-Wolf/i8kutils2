@@ -2,7 +2,7 @@
 name = "i8kutils"
 version = "2.0.0"
 description = "Fan control for some Dell laptops"
-requires-python = ">=3.9"
+requires-python = ">=3.11"
 keywords = []
 classifiers = [
     "Development Status :: 3 - Alpha",
